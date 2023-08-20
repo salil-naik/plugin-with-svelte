@@ -24,7 +24,7 @@
 {#if isClient}
   <ReactAdapter
     element={Bridge}
-    API_KEY="645b2c8c-5825-4930-baf3-d9b997fcd88c"
+    API_KEY="72a5b4b0-e727-48be-8aa1-5da9d62fe635"
     provider={providerValue}
   />
 {/if}
