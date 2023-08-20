@@ -1,1 +1,1 @@
-This is simple code snipet to reproduct issue for socketdottech
+Code sample to use Socket Plugin (react component) within Svelte project
